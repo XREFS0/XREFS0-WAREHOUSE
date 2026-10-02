@@ -18,43 +18,43 @@ A comprehensive warehouse management system built with Rust and Tauri, featuring
 ## Screenshots
 
 ### Login
-![Login](اسكرين%20شوت/01-login.png)
+![Login](screenshots/01-login.png)
 
 ### Dashboard
-![Dashboard](اسكرين%20شوت/02-dashboard.png)
+![Dashboard](screenshots/02-dashboard.png)
 
 ### Sales
-![Sales](اسكرين%20شوت/03-sales.png)
+![Sales](screenshots/03-sales.png)
 
 ### Purchases
-![Purchases](اسكرين%20شوت/04-purchases.png)
+![Purchases](screenshots/04-purchases.png)
 
 ### Inventory
-![Inventory](اسكرين%20شوت/05-inventory.png)
+![Inventory](screenshots/05-inventory.png)
 
 ### Point of Sale
-![POS](اسكرين%20شوت/06-pos.png)
+![POS](screenshots/06-pos.png)
 
 ### Customers
-![Customers](اسكرين%20شوت/07-customers.png)
+![Customers](screenshots/07-customers.png)
 
 ### Suppliers
-![Suppliers](اسكرين%20شوت/08-suppliers.png)
+![Suppliers](screenshots/08-suppliers.png)
 
 ### Expenses
-![Expenses](اسكرين%20شوت/09-expenses.png)
+![Expenses](screenshots/09-expenses.png)
 
 ### Reports
-![Reports](اسكرين%20شوت/10-reports.png)
+![Reports](screenshots/10-reports.png)
 
 ### Settings
-![Settings](اسكرين%20شوت/11-settings.png)
+![Settings](screenshots/11-settings.png)
 
 ### Stock Movements
-![Movements](اسكرين%20شوت/12-movements.png)
+![Movements](screenshots/12-movements.png)
 
 ### Period Close
-![Period Close](اسكرين%20شوت/13-period-close.png)
+![Period Close](screenshots/13-period-close.png)
 
 ## Technology Stack
 
